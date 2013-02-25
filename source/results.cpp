@@ -1,3 +1,5 @@
+//orion-webshell-detector by hjerold & gaber52
+
 //Results class implementation
 
 #include "header.h"

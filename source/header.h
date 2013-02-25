@@ -1,3 +1,4 @@
+//orion-webshell-detector by hjerold & gaber52
 //header file
 //Contains File Reader, File Scanner, Results class declarations
 

@@ -1,3 +1,4 @@
+//orion-webshell-detector by hjerold & gaber52
 //File Reader Implementation
 
 #include "header.h"
