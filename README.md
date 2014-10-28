@@ -1,4 +1,4 @@
-created by hjerold & gaber52
+created by v00d0089 & gaber52
 
 Synopsis
 --------

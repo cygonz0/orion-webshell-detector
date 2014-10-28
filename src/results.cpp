@@ -1,4 +1,4 @@
-//orion-webshell-detector by hjerold & gaber52
+//orion-webshell-detector by v00d0089 & gaber52
 //file: results.cpp
 //Results class implementation
 
