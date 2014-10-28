@@ -1,9 +1,8 @@
 created by hjerold & gaber52
 
-
 Synopsis
 --------
-This work-in-progress "Orion Webshell Detector" was created with the intention of assisting web application code reviews coded in PHP, ASP and JSP technologies. It is capable of detecting potential web shells as well as detecting dangerous usage of system function calls (e.g. shell_exec etc.)
+This work-in-progress "Orion Webshell Detector" was created with the intention of assisting web application code reviews coded in PHP, ASP and JSP technologies. It is capable of detecting potential web shells as well as detecting potentially dangerous usage of system function calls such as shell_exec() and more. 
 
 What is a webshell?
 -------------------
