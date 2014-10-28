@@ -2,7 +2,9 @@ created by hjerold & gaber52
 
 Synopsis
 --------
-This work-in-progress "Orion Webshell Detector" was created with the intention of assisting web application code reviews coded in PHP, ASP and JSP technologies. It is capable of detecting potential web shells as well as detecting potentially dangerous usage of system function calls such as shell_exec() and more. 
+This work-in-progress "Orion Webshell Detector" was created with the intention of assisting web application code reviews coded in PHP, ASP and JSP technologies. It is capable of detecting potential web shells as well as detecting potentially dangerous usage of system function calls such as shell_exec() and more. It is coded in C/C++ and has a GUI for Windows coded in C#.
+
+The CLi version is platform independent while the GUI only works on Windows.
 
 What is a webshell?
 -------------------
@@ -42,4 +44,4 @@ Compilation notes
 -----------------
 Quincy 2005 was used to develop and compile this webshell detector. The GUI is compiled using Microsoft Visual Studio 2010. (.sln file provided)
 
-Note: More info can be found in the Appendix file.
+Note: More information can be found in the docs folder.

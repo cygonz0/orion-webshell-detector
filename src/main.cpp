@@ -1,7 +1,6 @@
 //orion-webshell-detector by hjerold & gaber52
 //File: main.cpp
 
-
 #include "header.h"
 
 vector<string> phpComments;
