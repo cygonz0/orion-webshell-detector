@@ -1,5 +1,4 @@
-by : hjerold & gaber52
-maintained by: hjerold
+created by hjerold & gaber52
 
 
 Synopsis
