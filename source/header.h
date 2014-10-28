@@ -1,5 +1,5 @@
 //orion-webshell-detector by hjerold & gaber52
-//header file
+//File: header.h
 //Contains File Reader, File Scanner, Results class declarations
 
 //libraries for required methods

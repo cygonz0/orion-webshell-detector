@@ -1,4 +1,5 @@
 //orion-webshell-detector by hjerold & gaber52
+//File: base64.cpp
 //Base 64 encoding and decoding methods
 //Obtained from www.adp-gmbh.ch/cpp/common/base64.html
 

@@ -1,5 +1,5 @@
 //orion-webshell-detector by hjerold & gaber52
-//File Scanner implementations
+//File: fileScanner.cpp
 
 #include "header.h"
 

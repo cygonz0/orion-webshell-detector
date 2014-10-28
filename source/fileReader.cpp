@@ -1,5 +1,5 @@
 //orion-webshell-detector by hjerold & gaber52
-//File Reader Implementation
+//File: fileReader.cpp
 
 #include "header.h"
 
